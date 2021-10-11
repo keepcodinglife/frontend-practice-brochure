@@ -18,9 +18,9 @@ Hi there~
 为了对前端有一个系统梳理过程，我在这里收录知识。  
 请随意浏览～
 
-[![GitHub deployments](https://img.shields.io/github/deployments/linyuxuanlin/Wiki_Docusaurus/Production?label=Build&style=flat-square)](https://vercel.com/linyuxuanlin/wiki-docusaurus/deployments)
-[![GitHub last commit](https://img.shields.io/github/last-commit/linyuxuanlin/Wiki_Docusaurus?color=FCD734&label=Last%20commit&style=flat-square)](https://github.com/linyuxuanlin/Wiki_Docusaurus/commits/main)
-[![contact](https://img.shields.io/badge/Contact%20me-here-34ABE0?&style=flat-square)](ContactMe)
+[![GitHub deployments](https://img.shields.io/github/deployments/icodinghub/frontend-practice-brochure/Production?label=Build&style=flat-square)](https://vercel.com/icodinghub/frontend-practice-brochure/deployments)
+[![GitHub last commit](https://img.shields.io/github/last-commit/icodinghub/frontend-practice-brochure?color=FCD734&label=Last%20commit&style=flat-square)](https://github.com/icodinghub/frontend-practice-brochure/commits/main)
+[![contact](https://img.shields.io/badge/Contact%20me-here-34ABE0?&style=flat-square)](contact-me)
 
 <h6>Power Lin | Built with Docusaurus</h6>
 
