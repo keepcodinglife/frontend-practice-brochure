@@ -7,12 +7,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: '前端修炼小册',
   tagline: '不积硅步，无以至千里。',
   url: 'https://icodinghub.github.io',
-  baseUrl: '/frontend-practice-brochure/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'icodinghub', // Usually your GitHub org/user name.
-  projectName: 'frontend-practice-brochure', // Usually your repo name.
+  // organizationName: 'icodinghub', // Usually your GitHub org/user name.
+  // projectName: 'frontend-practice-brochure', // Usually your repo name.
 
   presets: [
     [
