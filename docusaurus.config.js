@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: '前端修炼小册',
   tagline: '不积硅步，无以至千里。',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://dev.imondo.cn/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Mondo', // Usually your GitHub org/user name.
+  projectName: 'frontend-practice-brochure', // Usually your repo name.
 
   presets: [
     [
@@ -55,9 +55,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           },
           {to: '/blog', label: 'Blog', position: 'right'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://github.com/icodinghub/frontend-practice-brochure',
             position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
           },
         ],
       },
