@@ -13,6 +13,8 @@ sidebar_position: 1
   * Boolean：true，false
   * undefined：undefined
   * null：null
+  * Bigint: 任意精度的整数，长整型数字
+  * Symbol
 
 * 对象（引用）类型
 
