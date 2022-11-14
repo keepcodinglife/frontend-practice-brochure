@@ -20,7 +20,7 @@ sidebar_position: 1
 
 由于没有使用 VUE3 来开发，所以默认的配置项还是基于 webpack 。如果项目根目录没有该配置项，可以自行创建 [vue.config.js](https://uniapp.dcloud.net.cn/collocation/vue-config.html) 文件，但是很遗憾还是没有可以处理多种环境下的一个配置。而且它还存在一些约束：
 
-![image.png](/static/img/uniapp.png)
+![image.png](../../static/img/uniapp.png)
 
 不过它可以添加一些自定义的变量
 
